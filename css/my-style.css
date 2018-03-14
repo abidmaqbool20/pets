@@ -1,0 +1,26 @@
+.my-nav
+{
+
+}
+
+.my-nav li a:hover
+{
+	color: #8a25b1;
+}
+
+.user-login 
+{
+	 
+}
+
+.user-login li a
+{
+	color: #8a25b1 !important;
+}
+
+
+.select2-selection
+{
+	height: 57px !important;
+	padding-top: 10px;
+}
