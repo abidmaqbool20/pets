@@ -24,3 +24,54 @@
 	height: 57px !important;
 	padding-top: 10px;
 }
+.thumbnail {
+    position: relative;
+    padding: 0px !important;
+   
+}
+
+.thumbnail img {
+    width: 100%;
+}
+.thumbheading {
+	   font-family: 'Lora', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 500;
+    color: #333;
+    text-align: center;
+    padding: 10px 0 0 0;
+
+}
+.thumbdscr {
+	font-size: 14px;
+    line-height: 1.56;
+    color: #777;
+}
+.imgdet {
+	 height: 300px !important;
+}
+.imgdet img {
+ width: 100%;
+ vertical-align: middle;
+height: 210px !important;
+}
+.maincolor {
+	color: #8a25b1 !important
+}
+.dateannounce {
+	float: right; 
+	color: #8a25b1 ;
+	font-size:14px
+
+
+}
+.img-center {
+	text-align: center;
+}
+.img-center img{
+	width:  150px;
+	height: 130px;
+	border-radius: 50% !important;
+
+}
