@@ -68,13 +68,13 @@
 				<div class="cat-v2-hom-list">
 					<ul>
 						<li>
-							<a href="#"><img src="images/icon/hcat1.png" alt=""> Pets </a>
+							<a href="pets.php"><img src="images/icon/hcat1.png" alt=""> Pets </a>
 						</li>
 						<li>
-							<a href="#"><img src="images/icon/hcat2.png" alt=""> Trainers</a>
+							<a href="trainers.php"><img src="images/icon/hcat2.png" alt=""> Trainers</a>
 						</li>
 						<li>
-							<a href="#"><img src="images/icon/hcat3.png" alt=""> Doctors</a>
+							<a href="doctors.php"><img src="images/icon/hcat3.png" alt=""> Doctors</a>
 						</li>
 						<li>
 							<a href="#"><img src="images/icon/hcat4.png" alt=""> Care Takers</a>
