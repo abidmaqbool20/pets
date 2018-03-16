@@ -228,121 +228,114 @@
 
 	
 	</section>
+
+
+
+
+
 	<!--EXPLORE CITY LISTING-->
 	
 	<section class="com-padd home-dis">
+
 		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<h2><span>30% Off</span> Promote Your Business with us <a href="price.html">Add My Business</a></h2> </div>
-			</div>
+    	<div class="row">
+    	<div class="com-title">
+					<h2>WORDS FROM OUR HAPPY CLIENTS</h2>
+					<p class="clrwhite">Explore some of the best business from around the world from our partners and friends.</p>
+				</div>
+        <div class="col-md-12">
+            <div id="testimonial-slider" class="owl-carousel dragable">
+                <div class="testimonial">
+                    <p class="description">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda deleniti dolor ipsum molestias mollitia ut. Aliquam aperiam corporis cumque debitis delectus dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    </p>
+                    <div class="testimonial-content">
+                        <div class="pic">
+                            <img src="images/services/16.jpg">
+                        </div>
+                        <h3 class="title">williamson</h3>
+                    </div>
+                </div>
+ 
+                <div class="testimonial">
+                    <p class="description">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda deleniti dolor ipsum molestias mollitia ut. Aliquam aperiam corporis cumque debitis delectus dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    </p>
+                    <div class="testimonial-content">
+                        <div class="pic">
+                            <img src="images/services/6.jpg">
+                        </div>
+                        <h3 class="title">Kristina</h3>
+                    </div>
+                </div>
+ 
+                <div class="testimonial">
+                    <p class="description">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda deleniti dolor ipsum molestias mollitia ut. Aliquam aperiam corporis cumque debitis delectus dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    </p>
+                    <div class="testimonial-content">
+                        <div class="pic">
+                            <img src="images/services/11.jpg">
+                        </div>
+                        <h3 class="title">Steve Thomas</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    	</div>
 		</div>
 	</section>
+
+
 	<!--BEST THINGS-->
 	<section class="com-padd com-padd-redu-bot1">
 		<div class="container dir-hom-pre-tit">
-			
-			 <div class="row">
-        
-     	
-      <div class="col-xs-18 col-sm-6 col-md-4">
-          	<div class="thumbnail">
-	          	<a href="" class="imgdet"> 
-	          		<img src="images/services/9.jpg" alt="">
-	          		<h4 class="thumbheading">Thumbnail label</h4>
-	            </a>
-
-	            <div class="caption thumbdscr">
-	                <p>tress or no stress, a bride dieting and burning herself to fit into that dress for her big day is like a norm of our society. I have found something...</p>
-	                <a href="#" class="maincolor">View More</a> <span class="dateannounce">03 Dec 2018 </span>
-	            </div>
-        	 </div>
-       </div>
-
-      <div class="col-xs-18 col-sm-6 col-md-4">
-          	<div class="thumbnail">
-	          	<a href="" class="imgdet"> 
-	          		<img src="images/services/s1.jpg" alt="">
-	          		<h4 class="thumbheading">Thumbnail label</h4>
-	            </a>
-
-	            <div class="caption thumbdscr">
-	                <p>tress or no stress, a bride dieting and burning herself to fit into that dress for her big day is like a norm of our society. I have found something...</p>
-	                <a href="#" class="maincolor">View More</a> <span class="dateannounce">03 Dec 2018 </span>
-	            </div>
-        	 </div>
-       </div>
-
-   	 <div class="col-xs-18 col-sm-6 col-md-4">
-          	<div class="thumbnail">
-	          	<a href="" class="imgdet"> 
-	          		<img src="images/services/15.jpg" alt="">
-	          		<h4 class="thumbheading">Thumbnail label</h4>
-	            </a>
-
-	            <div class="caption thumbdscr">
-	                <p>tress or no stress, a bride dieting and burning herself to fit into that dress for her big day is like a norm of our society. I have found something...</p>
-	                <a href="#" class="maincolor">View More</a> <span class="dateannounce">03 Dec 2018 </span>
-	            </div>
-        	 </div>
-       </div>
-
-
-     
-        
-      </div><!-- End row -->
-		</div>
-	</section>
-
-<section class="com-padd sec-bg-white">
-		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="pglist-p3 pglist-p-com">
-							<div class="text-center img-center"> <img src="images/services/7.jpg" alt="" class="img-circle img-responisve"> </div>
-							<div class="list-pg-inn-sp">
-								<div class="list-pg-upro" style="padding-top: 0;">
-									<h5>Kevin Jack</h5>
-									<p>“ The design of the tent was really aesthetically pleasing, and blended well with festivity. I was really lucky to book through shadibox. Reasonable and professional!  ”
-
-								</div>
-							</div>
-						</div>
-				</div>
-				<div class="col-md-4">
-					<div class="pglist-p3 pglist-p-com">
-							<div class="text-center img-center"> <img src="images/services/7.jpg" alt="" class="img-circle img-responisve"> </div>
-							<div class="list-pg-inn-sp">
-								<div class="list-pg-upro" style="padding-top: 0;">
-									<h5>Kevin Jack</h5>
-									<p>“ The design of the tent was really aesthetically pleasing, and blended well with festivity. I was really lucky to book through shadibox. Reasonable and professional!  ”
-
-								</div>
-							</div>
-						</div>
-				</div>
-				<div class="col-md-4">
-					<div class="pglist-p3 pglist-p-com">
-							<div class="text-center img-center"> <img src="images/services/7.jpg" alt="" class="img-circle img-responisve"> </div>
-							<div class="list-pg-inn-sp">
-								<div class="list-pg-upro" style="padding-top: 0;">
-									<h5>Kevin Jack</h5>
-									<p>“ The design of the tent was really aesthetically pleasing, and blended well with festivity. I was really lucky to book through shadibox. Reasonable and professional!  ”
-
-								</div>
-							</div>
-						</div>
-				</div>
+				<div class="com-title">
+				<h2>New Businesses in<span> this month</span></h2>
+				<p>Explore some of the best tips from around the world from our partners and friends.</p>
 			</div>
+				<article class="col-md-4">
+	    			<figure class="col-lg-12">
+						<a href="" class="imgeffect"><img class="img img-responsive article-img " src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
+					</figure>
+					<div class="article-intro col-lg-12">
+						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
+						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
+					</div>
+					<p class="linkread"><a href="#"> View More </a></p>
+				</article>
+	                
+	         	<article class="col-md-4">
+	    			<figure class="col-lg-12">
+						<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
+					</figure>
+					<div class="article-intro col-lg-12">
+						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
+						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
+					</div>
+					<p class="linkread"><a href="#"> View More </a></p>
+				</article>
+					<article class="col-md-4">
+	    			<figure class="col-lg-12">
+						<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
+					</figure>
+					<div class="article-intro col-lg-12">
+						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
+						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
+					</div><p class="linkread"><a href="#"> View More </a></p><div></div>
+				</article>
+        </div>
+	
 		</div>
 	</section>
-
-
-
 
 
 	<!--CREATE FREE ACCOUNT-->
-	<section class="com-padd sec-bg-white">
+	<!-- <section class="com-padd sec-bg-white">
 		<div class="container">
 			<div class="row">
 				<div class="com-title">
@@ -416,9 +409,9 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--MOBILE APP-->
-	<section class="web-app com-padd">
+	<!-- <section class="web-app com-padd">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 web-app-img"> <img src="images/mobile.png" alt="" /> </div>
@@ -445,5 +438,5 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 <?= include("includes/footer.php"); ?>

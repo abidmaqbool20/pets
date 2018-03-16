@@ -1,6 +1,45 @@
 <?php include("includes/header.php"); ?>
 <?php include("includes/nav-2.php"); ?>
 
+
+<!-- search filter code here  -->
+<section class="dir-pa-sp-top">
+	<div class="container">
+	    <div class="row">  
+	      <div class="row ">
+	        	
+					<ol class="breadcrumb">
+				    	<li><a href="#">Home</a></li>
+				    	<li><a href="#">Private</a></li>
+				    	<li><a href="#">Pictures</a></li>
+				    	<li class="active">Vacation</li>        
+				  	</ol>
+		
+	        </div>
+  
+	       	<div class="col-md-8 col-sm-8 mob-hide">
+					<form class="app-search">
+						<input type="text" placeholder="Search..." class="form-control"> <a href="#"><i class="fa fa-search"></i></a> </form>
+			</div>
+	        <div class="col-xs-4">
+	        	<button type="button" class="btn-link app-search" id="advancefilter">
+	               	<span id="search_concept">Advance Filter</span> <span class="glyphicon glyphicon-filter"></span>
+	            </button>
+	        </div>
+	        <p> <br> <br> </p>
+	       <hr> 
+	      
+	        <div class="col-md-12">
+	        	<div class="row showadvanceflte" style="height: 80px; width: 100%; background-color: #f00; display: none;">
+	        		
+	        	</div>
+	        </div>
+		</div>
+	</div>	
+
+</section>
+
+
 <section class="dir-pa-sp-top">
 		<div class="container com-padd dir-hom-pre-tit">
 			<div class="com-title">

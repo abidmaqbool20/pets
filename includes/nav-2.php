@@ -7,7 +7,7 @@
 						<a href="index.php"><img src="images/new-logo.png" alt=""> </a>
 					</div>
 					 
-					<div class="ts-menu-2"><a href="#" class="t-bb">All Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+				<!-- 	<div class="ts-menu-2"><a href="#" class="t-bb">All Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 					 
 						<div class="cat-menu cat-menu-1">
 							<div class="dz-menu">
@@ -95,15 +95,21 @@
 								</ul>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<!--SECTION: SEARCH BOX-->
 					<div class="ts-menu-3">
 						<div class="">
 							<form class="tourz-search-form tourz-top-search-form">
-								<div class="input-field">
-									<input type="text" id="top-select-city" class="autocomplete">
-									<label for="top-select-city">Enter city</label>
-								</div>
+								<div class="input-field"> 
+						 
+								<select class="form-control select2" id="category" style="height: 100px; width: 100% " >
+									<option>Pets</option>
+									<option>Doctors</option>
+									<option>Trainers</option>
+									<option>Care Takers</option>
+								</select> 
+				 
+						</div>
 								<div class="input-field">
 									<input type="text" id="top-select-search" class="autocomplete">
 									<label for="top-select-search" class="search-hotel-type">Search your services like hotel, resorts, events and more</label>
@@ -118,7 +124,6 @@
 						<div class="v3-top-ri">
 							<ul>
 								<li><a href="login.html" class="v3-menu-sign"><i class="fa fa-sign-in"></i> Sign In</a> </li>
-								<li><a href="db-listing-add.html" class="v3-add-bus"><i class="fa fa-plus" aria-hidden="true"></i> Add Listing</a> </li>
 							</ul>
 						</div>
 					</div>
