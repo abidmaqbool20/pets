@@ -102,7 +102,7 @@
 							<form class="tourz-search-form tourz-top-search-form">
 								<div class="input-field"> 
 						 
-								<select class="form-control select2" id="category" style="height: 100px; width: 100% " >
+								<select class="form-control h40px select2" id="category #top-select-search" style="height: 100px; width: 100% " >
 									<option>Pets</option>
 									<option>Doctors</option>
 									<option>Trainers</option>
@@ -157,3 +157,6 @@
 			</div>
 		</div>
 </section>
+<script type="text/javascript">
+	$( ".h40px" ).select2({ height: '28px' });
+</script>

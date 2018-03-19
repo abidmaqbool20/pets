@@ -10444,7 +10444,7 @@ textarea {
 	height: 45px;
 }
 [class~=list-mig-like-com]:hover img {
-	-webkit-transition: all .5s ease;
+	/*-webkit-transition: all .5s ease;*/
 }
 [class~=list-pg-write-rev] form input {
 	line-height: 9pt;
@@ -10543,7 +10543,7 @@ textarea {
 	float: left;
 }
 [class~=list-mig-like-com]:hover img {
-	-moz-transition: all .5s ease;
+	/*-moz-transition: all .5s ease;*/
 }
 .tz-3 {
 	border-radius: 4px;
@@ -10617,7 +10617,7 @@ textarea {
 	float: right;
 }
 [class~=list-mig-like-com]:hover img {
-	-o-transition: all .5s ease;
+	/*-o-transition: all .5s ease;*/
 }
 .tz-l-1 {
 	border-right-style: solid;
@@ -10683,7 +10683,7 @@ footer ul, .tz-l-2 ul, [class~=tz-l-1] ul {
 	overflow: hidden;
 }
 [class~=list-mig-like-com]:hover img {
-	transition: all .5s ease;
+	/*transition: all .5s ease;*/
 }
 [class~=tz-3] ul li a h5 {
 	white-space: pre;
@@ -10859,7 +10859,7 @@ font-size:.75pc !important;
 	font-size: 10px;
 }
 [class~=list-mig-like-com]:hover img {
-	opacity: .5;
+	/*opacity: .5;*/
 }
 [class~=tz-3] ul {
 	padding-bottom: .208333333in;

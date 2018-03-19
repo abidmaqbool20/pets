@@ -2,6 +2,32 @@
 {
 
 }
+.clrwht {
+   color: #ffffff !important;
+}
+.clrwht span {
+   color: #ffffff !important;
+
+}
+.bg-gray {
+    background-color: #f5f5f5;
+}
+.p-10 {
+    padding: 10px;
+}
+.frmstyle {
+    margin-top: 10px;
+    padding: 5px 10px 10px 10px;
+    background-color: #ac4fd0;
+    color: #fff;
+
+}
+.filterform {
+    color: #888;
+    padding: 10px 10px !important;
+    background-color: #f5f5f5;
+   
+}
 
 .my-nav li a:hover
 {
@@ -19,11 +45,7 @@
 }
 
 
-.select2-selection
-{
-	height: 40px !important;
-	padding-top: 5px;
-}
+
 /*.thumbnail {
     position: relative;
     padding: 0px !important;
@@ -83,7 +105,9 @@ height: 210px !important;
 	border-radius: 50% !important;
 
 }
-
+.w100 {
+    width: 100% !important;
+}
 
 
 /* Testimonial Start Here */

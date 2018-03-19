@@ -10,7 +10,7 @@ $(document).ready(function(){
 
     $("#advancefilter").click(function(){
 
-    	$(".showadvanceflte").toggle(500);
+    	$(".showadvanceflte").slideToggle(500);
 
     });
 });

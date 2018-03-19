@@ -158,6 +158,7 @@
  
 	<script type="text/javascript">
 		$( ".select2" ).select2( );
+		$( ".fullselect" ).select2({ width: '100%' });
 
 	</script>
 </body>

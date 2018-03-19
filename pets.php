@@ -5,47 +5,180 @@
 <!-- search filter code here  -->
 <section class="dir-pa-sp-top">
 	<div class="container">
-	    <div class="row">  
-	      <div class="row ">
-	        	
-					<ol class="breadcrumb">
-				    	<li><a href="#">Home</a></li>
-				    	<li><a href="#">Private</a></li>
-				    	<li><a href="#">Pictures</a></li>
-				    	<li class="active">Vacation</li>        
-				  	</ol>
-		
+	    <div class="row ">  
+	      	<div class="col-md-12 p-10 ">
+	        	<ol class="breadcrumb">
+				  	<li><a href="#">Home</a></li>
+				   	<li><a href="#">Private</a></li>
+				   	<li><a href="#">Pictures</a></li>
+				   	<li class="active">Vacation</li>        
+				</ol>
 	        </div>
-  
-	       	<div class="col-md-8 col-sm-8 mob-hide">
-					<form class="app-search">
-						<input type="text" placeholder="Search..." class="form-control"> <a href="#"><i class="fa fa-search"></i></a> </form>
-			</div>
-	        <div class="col-xs-4">
-	        	<button type="button" class="btn-link app-search" id="advancefilter">
-	               	<span id="search_concept">Advance Filter</span> <span class="glyphicon glyphicon-filter"></span>
-	            </button>
-	        </div>
-	        <p> <br> <br> </p>
-	       <hr> 
-	      
-	        <div class="col-md-12">
-	        	<div class="row showadvanceflte" style="height: 80px; width: 100%; background-color: #f00; display: none;">
-	        		
-	        	</div>
-	        </div>
+	     </div>
+	        <div class="row filterform">
+	        <form class="">
+	  			<div class="col-md-12 bg-gray">
+			       	<div class="col-md-12 col-sm-9 ">
+						<div class="row">
+							<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Category </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+							<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Select city and view Ads </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Category </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			 <div class="col-md-3 col-sm-3">
+					        	<button type="button" class="btn-link app-search" id="advancefilter">
+					               	<span id="search_concept"  >Advance Filter</span> <span class="glyphicon glyphicon-filter"></span>
+					            </button>
+					        </div>
+						</div>
+					</div>
+				</div>
+		       	<div class="col-md-12 bg-gray">
+	        		<div class="col-md-12 showadvanceflte  " style="display: none;"  >
+		        		<div class="row">
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Type Pets </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Age </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Sex </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div > Color </div>
+		        					<div > 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Price </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4 col-xs-12">
+		        				<div class="row">
+		        					<div> Weight </div>
+		        					<div> 
+		        						<select class="fullselect form-control">
+											<option value="HI">Hawaii</option>
+											<option value="CA">California</option>
+											<option value="NV">Nevada</option>
+											<option value="OR">Oregon</option>
+											<option value="WA">Washington</option>
+										</select>
+		        					</div>
+		        				</div>
+		        			</div>
+		        			<div class="col-md-3 col-sm-4"></div>
+		        			<div class="col-md-3">
+		        				<div class="input-field">
+									<i class="waves-effect waves-light btn-lg tourz-top-sear-btn waves-input-wrapper" style=""><input type="submit" value="" class="waves-button-input"></i>
+								</div>
+
+		        			</div>
+		        		</div>
+	        		</div>
+	        	 </div>
+	     	</form>
+	     	</div>
+	     
 		</div>
-	</div>	
+	
 
 </section>
 
 
-<section class="dir-pa-sp-top">
+<section class="">
 		<div class="container com-padd dir-hom-pre-tit">
-			<div class="com-title">
-				<h2>New Businesses in<span> this month</span></h2>
-				<p>Explore some of the best tips from around the world from our partners and friends.</p>
-			</div>
+			
 			<div class="row span-none">
 				<div class="col-md-4">
 					<a href="#!">
@@ -245,3 +378,6 @@
 		</div>
 	</section>
 <?php include("includes/footer.php"); ?>
+<script type="text/javascript">
+	$( ".h40px" ).select2({ height: '28px' });
+</script>
