@@ -1383,7 +1383,7 @@ color:#fff;
 	padding-bottom: .1875pc;
 }
 [class~=dir-ho-t-tit] h1, .dir-ho-t-tit p {
-	padding-bottom: .364583333in;
+	/*padding-bottom: .364583333in;*/
 }
 .dir-ho-t-tit p, [class~=dir-ho-t-tit] h1 {
 	text-shadow: 0in .75pt 0 rgba(0,0,0,.9);
@@ -1408,7 +1408,7 @@ display:inline-block;
 	background-size: cover;
 }
 [class~=dir-ho-t-tit] h1 {
-	padding-top: 3%;
+	/*padding-top: 3%;*/
 }
 [class~=link-btn] {
 cursor:pointer;

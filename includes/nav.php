@@ -1,4 +1,4 @@
-<section id="background" class="dir1-home-head" style="height:100vh;">
+<section id="background" class="dir1-home-head">
 		<div class="container">
 			<div class="row" style="margin-top: 10px;">
 				<div class="col-md-3 col-sm-3 col-xs-12">
@@ -11,18 +11,7 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-9">
-					<!-- <div class="dir-ho-tr">
-						<ul style="float: left;" class="my-nav">
-							<li><a href="index.php">Home</a> </li>
-							<li><a href="pets.php">Pets</a> </li>
-							<li><a href="doctors.php">Doctors</a> </li>
-							<li><a href="trainers.php">Trainers</a> </li>
-							<li><a href="care-takers.php">Care Takers</a> </li> 
-							<li><a href="assecories.php">Pets Assecories</a> </li>
-							<li><a href="assecories.php">Insurance Provider</a> </li>
-							<li><a href="blog.php">Blog</a> </li>
-						</ul>
-					</div> -->
+				
 					<div class="dir-ho-tr">
 						<ul class="user-login"> 
 							<li>
