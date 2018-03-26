@@ -70,17 +70,21 @@
 	</section>
 	<!--ADD BUSINESS-->
 
-	<section class="">
+	<section class="bdyclrgray">
 		<div class="container">
 			<div class="row com-padd">
 				<div class="col-md-12 ">
 					<div class="">
+						<!-- <div class="com-title">
+							<h2>Check your <span>Best Pet</span></h2>
+							
+						</div> -->
+						<div class="hom-cre-acc-left text-center">
+							<h3><span>For Visitors</span></h3>
+							<p>Local directory is the smartest way to find the best services for all your works</p>
+						</div>
 						<div class="col-md-6">
-							<div class="hom-cre-acc-left">
-								<h3><span>For Visitors</span></h3>
-								<p>Local directory is the smartest way to find the <b>best services</b>
-									<br>for all your works</p>
-							</div>
+							
 							<div class="how-com">
 								<ul>
 									<li> <img src="images/how/1.png" alt="">
@@ -100,11 +104,7 @@
 						</div>
 						<div class="col-md-6">
 							<div class="">
-						<div class="hom-cre-acc-left">
-							<h3><span>For Business Owners</span></h3>
-							<p>You can grow your business online and <b>Get more leads</b>
-								<br>for your business</p>
-						</div>
+						
 						<div class="how-com">
 							<ul>
 								<li> <img src="images/how/4.png" alt="">
@@ -230,7 +230,51 @@
 	</section>
 
 
-
+	<!--BEST THINGS-->
+	<section class="com-padd com-padd-redu-bot1 bdyclrgray">
+		<div class="container dir-hom-pre-tit">
+			<div class="row">
+				<div class="com-title">
+				<h2>New Businesses in<span> this month</span></h2>
+				<p>Explore some of the best tips from around the world from our partners and friends.</p>
+			</div>
+				<article class="col-md-4">
+	    			<figure class="col-lg-12">
+						<a href="" class="imgeffect"><img class="img img-responsive article-img " src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
+					</figure>
+					<div class="article-intro col-lg-12">
+						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
+						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
+					</div>
+					<p class="linkread"><a href="#"> View More </a></p>
+				</article>
+	                
+	         	<article class="col-md-4">
+	    			<figure class="col-lg-12">
+						<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
+					</figure>
+					<div class="article-intro col-lg-12">
+						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
+						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
+					</div>
+					<p class="linkread"><a href="#"> View More </a></p>
+				</article>
+					<article class="col-md-4">
+	    			<figure class="col-lg-12">
+						<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
+					</figure>
+					<div class="article-intro col-lg-12">
+						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
+						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
+					</div><p class="linkread"><a href="#"> View More </a></p><div></div>
+				</article>
+        </div>
+	
+		</div>
+	</section>
 
 
 	<!--EXPLORE CITY LISTING-->
@@ -287,51 +331,7 @@
 	</section>
 
 
-	<!--BEST THINGS-->
-	<section class="com-padd com-padd-redu-bot1">
-		<div class="container dir-hom-pre-tit">
-			<div class="row">
-				<div class="com-title">
-				<h2>New Businesses in<span> this month</span></h2>
-				<p>Explore some of the best tips from around the world from our partners and friends.</p>
-			</div>
-				<article class="col-md-4">
-	    			<figure class="col-lg-12">
-						<a href="" class="imgeffect"><img class="img img-responsive article-img " src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
-						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
-					</figure>
-					<div class="article-intro col-lg-12">
-						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
-						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
-					</div>
-					<p class="linkread"><a href="#"> View More </a></p>
-				</article>
-	                
-	         	<article class="col-md-4">
-	    			<figure class="col-lg-12">
-						<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
-						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
-					</figure>
-					<div class="article-intro col-lg-12">
-						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
-						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
-					</div>
-					<p class="linkread"><a href="#"> View More </a></p>
-				</article>
-					<article class="col-md-4">
-	    			<figure class="col-lg-12">
-						<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
-						<figcaption class="article-caption"><h3 class="article-title">March 21,2018</h3></figcaption>
-					</figure>
-					<div class="article-intro col-lg-12">
-						<h4>TESORO JEWELLERY YOU MUST TRY ON FOR THE WEDDING SEASON</h4>
-						<p>ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum ipsum dor Lorem ipsum dolor Lorem ipsum </p>
-					</div><p class="linkread"><a href="#"> View More </a></p><div></div>
-				</article>
-        </div>
-	
-		</div>
-	</section>
+
 
 
 	<!--CREATE FREE ACCOUNT-->

@@ -53,18 +53,49 @@
 
 								<div class="list-pg-inn-sp">
 								<div class="list-pg-oth-info">
-									<ul>
-										<li>Today Shop <span class="green-bg">open</span> </li>
-										<li>Experience <span>16</span> </li>
-										<li>Parking <span>yes</span> </li>
-										<li>Smoking <span>yes</span> </li>
-										<li>Pool Table <span>yes</span> </li>
-										<li>Take Out <span>yes</span> </li>
-										<li>Good for Groups <span>yes</span> </li>
-										<li>Accepts All Cards <span>yes</span> </li>
-										<li>Open Time <span>09:00am</span> </li>
-										<li>Close Time <span>10:00pm</span> </li>
-									</ul>
+									<div class="db-list-com tz-db-table">
+						
+						<table class="responsive-table bordered">
+							<tbody>
+								<tr>
+									<td>User Name</td>
+									<td>:</td>
+									<td>Sam Anderson</td>
+								</tr>
+								<tr>
+									<td>Password</td>
+									<td>:</td>
+									<td>mypasswordtour</td>
+								</tr>
+								<tr>
+									<td>Eamil</td>
+									<td>:</td>
+									<td>sam_anderson@gmail.com</td>
+								</tr>
+								<tr>
+									<td>Phone</td>
+									<td>:</td>
+									<td>+01 4561 3214</td>
+								</tr>
+								<tr>
+									<td>Date of birth</td>
+									<td>:</td>
+									<td>03 Jun 1990</td>
+								</tr>
+								<tr>
+									<td>Address</td>
+									<td>:</td>
+									<td>8800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</td>
+								</tr>
+								<tr>
+									<td>Status</td>
+									<td>:</td>
+									<td><span class="db-done">Active</span> </td>
+								</tr>
+							</tbody>
+						</table>
+					
+					</div>
 								</div>
 							</div>
 
@@ -180,7 +211,7 @@
 						<!--LISTING DETAILS: LEFT PART 6-->
 						<div class="pglist-p3 pglist-bg pglist-p-com">
 							<div class="pglist-p-com-ti">
-								<h3><span>Write Your</span> Reviews</h3> </div>
+								<h3><span>Write Your</span> Inquiry</h3> </div>
 							<div class="list-pg-inn-sp">
 								<div class="list-pg-write-rev">
 									<form class="col">
@@ -238,7 +269,7 @@
 											</div>
 										</div>
 										<div class="row">
-											<div class="input-field col s12"> <a class="waves-effect waves-light btn-large full-btn" href="#!">Submit Review</a> </div>
+											<div class="input-field col s12"> <a class="waves-effect waves-light btn-large full-btn" href="#!">Submit Inquiry</a> </div>
 										</div>
 									</form>
 								</div>
@@ -365,7 +396,7 @@
 		</div>
 	</section>
 	<!--MOBILE APP-->
-	<section class="web-app com-padd">
+<!-- 	<section class="web-app com-padd">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 web-app-img"> <img src="images/mobile.png" alt="" /> </div>
@@ -392,6 +423,6 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--FOOTER SECTION-->
 	<?php include("includes/footer.php"); ?>

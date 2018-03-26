@@ -9,6 +9,9 @@
    color: #ffffff !important;
 
 }
+.bdyclrgray {
+    background-color: #e5e9ec;
+}
 .bg-gray {
     background-color: #f5f5f5;
 }
@@ -21,6 +24,26 @@
     background-color: #ac4fd0;
     color: #fff;
 
+}
+
+.slectheight > select2 {
+    height: 40px !important;
+}
+
+.tabdetails {
+    overflow: hidden;
+}
+.tabdetails ul li {
+    margin-left: 6px !important;
+}
+.tabdetails ul li a {
+    color: #fff;
+    line-height: 6px;
+
+}
+.tabdetails ul li a :hover {
+   text-decoration: none;
+    
 }
 .filterform {
     color: #888;
@@ -45,7 +68,12 @@
 }
 
 
-
+[class~=list-enqu-btn] ul li {
+    width: 20% !important;
+}
+[class~=list-enqu-btn] ul li a:active {
+    background-color: #162336;
+}
 /*.thumbnail {
     position: relative;
     padding: 0px !important;
@@ -92,9 +120,7 @@ height: 210px !important;
 .dateannounce {
 	float: right; 
 	color: #8a25b1 ;
-	font-size:14px
-
-
+	font-size:14px;
 }
 .img-center {
 	text-align: center;
@@ -108,7 +134,9 @@ height: 210px !important;
 .w100 {
     width: 100% !important;
 }
-
+.paddbotom {
+    padding-bottom: 50px;
+}
 
 /* Testimonial Start Here */
 .clrwhite {
@@ -122,6 +150,7 @@ height: 210px !important;
     background: #fff;
     text-align: center;
     margin: 0 20px;
+    padding: 10px 0 0 10px;
 }
 .testimonial .description{
     padding: 40px 30px;

@@ -1,4 +1,4 @@
-<section id="background" class="dir1-home-head">
+<section id="background" class="dir1-home-head paddbotom">
 		<div class="container">
 			<div class="row" style="margin-top: 10px;">
 				<div class="col-md-3 col-sm-3 col-xs-12">
@@ -31,8 +31,8 @@
 						<h1>We Care Your Pets</h1> 
 						<p>Choose waht you need about your pet <br>We have every thing in our website</p>
 					</div>
-					<form class="tourz-search-form">
-						<div class="input-field"> 
+					<form class="tourz-search-form ">
+						<div class="input-field slectheight"> 
 						 
 								<select class="form-control select2" id="category" style="height: 100px; width: 100% " >
 									<option>Pets</option>

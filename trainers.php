@@ -1,7 +1,7 @@
 <?php include("includes/header.php"); ?>
 <?php include("includes/nav-2.php"); ?>
 
-<section class="dir-pa-sp-top">
+<section class="dir-pa-sp-top bdyclrgray">
 		<div class="container dir-hom-pre-tit">
 			<div class="row com-padd com-padd-redu-bot1">
 				<div class="com-title">
@@ -15,7 +15,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s1.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Effi Furniture Dealers</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Effi Furniture Dealers</h3></a>
 								<div class="pg-revi-re"><img src="images/users/8.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -37,7 +37,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s2.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>NIID Job Training</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>NIID Job Training</h3></a>
 								<div class="pg-revi-re"><img src="images/users/2.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -59,7 +59,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s3.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Computer Repair &amp; Services</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Computer Repair &amp; Services</h3></a>
 								<div class="pg-revi-re"><img src="images/users/3.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -81,7 +81,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s4.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Packers and Movers</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Packers and Movers</h3></a>
 								<div class="pg-revi-re"><img src="images/users/4.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -107,7 +107,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s5.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Tour and Travels</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Tour and Travels</h3></a>
 								<div class="pg-revi-re"><img src="images/users/5.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -129,7 +129,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s6.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Andru Modular Kitchen</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Andru Modular Kitchen</h3></a>
 								<div class="pg-revi-re"><img src="images/users/6.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -151,7 +151,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s7.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Rute Skin Care &amp; Treatment</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Rute Skin Care &amp; Treatment</h3></a>
 								<div class="pg-revi-re"><img src="images/users/7.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
@@ -173,7 +173,7 @@
 							<!--POPULAR LISTINGS IMAGE-->
 							<div class="col-md-3"> <img src="images/services/s8.jpg" alt=""> </div>
 							<!--POPULAR LISTINGS: CONTENT-->
-							<div class="col-md-9 home-list-pop-desc"> <a href="#"><h3>Health and Fitness</h3></a>
+							<div class="col-md-9 home-list-pop-desc"> <a href="trainer-details.php"><h3>Health and Fitness</h3></a>
 								<div class="pg-revi-re"><img src="images/users/1.png" alt="">
 									<p>Melanie <span>252 Reviews , 909 Followers</span>
 										</p><p>
