@@ -54,48 +54,46 @@
 								<div class="list-pg-inn-sp">
 								<div class="list-pg-oth-info">
 									<div class="db-list-com tz-db-table">
-						
-						<table class="responsive-table bordered">
-							<tbody>
-								<tr>
-									<td>User Name</td>
-									<td>:</td>
-									<td>Sam Anderson</td>
-								</tr>
-								<tr>
-									<td>Password</td>
-									<td>:</td>
-									<td>mypasswordtour</td>
-								</tr>
-								<tr>
-									<td>Eamil</td>
-									<td>:</td>
-									<td>sam_anderson@gmail.com</td>
-								</tr>
-								<tr>
-									<td>Phone</td>
-									<td>:</td>
-									<td>+01 4561 3214</td>
-								</tr>
-								<tr>
-									<td>Date of birth</td>
-									<td>:</td>
-									<td>03 Jun 1990</td>
-								</tr>
-								<tr>
-									<td>Address</td>
-									<td>:</td>
-									<td>8800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</td>
-								</tr>
-								<tr>
-									<td>Status</td>
-									<td>:</td>
-									<td><span class="db-done">Active</span> </td>
-								</tr>
-							</tbody>
-						</table>
-					
-					</div>
+										<table class="responsive-table bordered">
+											<tbody>
+												<tr>
+													<td>User Name</td>
+													<td>:</td>
+													<td>Sam Anderson</td>
+												</tr>
+												<tr>
+													<td>Password</td>
+													<td>:</td>
+													<td>mypasswordtour</td>
+												</tr>
+												<tr>
+													<td>Eamil</td>
+													<td>:</td>
+													<td>sam_anderson@gmail.com</td>
+												</tr>
+												<tr>
+													<td>Phone</td>
+													<td>:</td>
+													<td>+01 4561 3214</td>
+												</tr>
+												<tr>
+													<td>Date of birth</td>
+													<td>:</td>
+													<td>03 Jun 1990</td>
+												</tr>
+												<tr>
+													<td>Address</td>
+													<td>:</td>
+													<td>8800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</td>
+												</tr>
+												<tr>
+													<td>Status</td>
+													<td>:</td>
+													<td><span class="db-done">Active</span> </td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
 								</div>
 							</div>
 

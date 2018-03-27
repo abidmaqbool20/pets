@@ -1,3 +1,508 @@
+<?php include("includes/header.php"); ?>
+<?php include("includes/nav-2.php"); ?>
+
+
+ <section id="blog-section" >
+     <div class="container">
+       <div class="row">
+         <div class="col-lg-8">
+           <div class="row">
+              <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-ndZJOGgvYQ4/WM1ZI8dH86I/AAAAAAAADeo/l67ZqZnRUO8QXIQi38bEXuxqHfVX0TV2gCJoC/w424-h318-n-rw/thumbnail8.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-ojLI116-Mxk/WM1ZIwdnuwI/AAAAAAAADeo/4K6VpwIPSfgsmlXJB5o0N8scuI3iW4OpwCJoC/w424-h318-n-rw/thumbnail6.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>       
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-TrK1csbtHRs/WM1ZI1SIUNI/AAAAAAAADeo/OkiUjuad6skWl9ugxbiIA_436OwsWKBNgCJoC/w424-h318-n-rw/thumbnail3.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>       
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-UKfIhJSBW9M/WM1ZI8ou34I/AAAAAAAADeo/vlLGY29147AYLaxUW29ZXJlun115BhkhgCJoC/w424-h318-n-rw/thumbnail7.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>       
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-13DR8P0-AN4/WM1ZIz1lRNI/AAAAAAAADeo/XMfJ7CM-pQg9qfRuCgSnphzqhaj3SQg6QCJoC/w424-h318-n-rw/thumbnail4.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>       
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-QlnwuVgbxus/WM1ZI1FKQiI/AAAAAAAADeo/nGSd1ExnnfIfIBF27xs8-EdBdfglqFPZgCJoC/w424-h318-n-rw/thumbnail2.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>       
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-wRHL_FOH1AU/WM1ZIxQZ3DI/AAAAAAAADeo/lwJr8xndbW4MHI-lOB7CQ-14FJB5f5SWACJoC/w424-h318-n-rw/thumbnail5.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>       
+               
+               <div class="col-lg-6 col-md-6">
+             <aside>
+                <img src="https://lh3.googleusercontent.com/-ndZJOGgvYQ4/WM1ZI8dH86I/AAAAAAAADeo/l67ZqZnRUO8QXIQi38bEXuxqHfVX0TV2gCJoC/w424-h318-n-rw/thumbnail8.jpg" class="img-responsive">
+                <div class="content-title">
+				<div class="text-center">
+				<h3><a href="#">Niki Postingan Sing Kepisan Njeh, Perdana Ngoten</a></h3>
+				</div>
+				</div>
+				<div class="content-footer">
+				<img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
+				<span style="font-size: 16px;color: #fff;">Sumit Kumar</span>
+				<span class="pull-right">
+				<a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+				<a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+				</span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Sumit Kumar</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+						<a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+						<a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+						<a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+						<a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+					</div>
+                    </div>
+				</div>
+             </aside>
+            </div>  
+           </div>
+          </div>
+           
+<!--           // RECENT POST===========-->
+         <div class="col-lg-4">           
+           	<div class="widget-sidebar">
+             	<h2 class="title-widget-sidebar">// RECENT POST</h2>
+               <div class="content-widget-sidebar">
+                    <ul>
+                     <li class="recent-post">
+                        <div class="post-img">
+                         <img src="https://lh3.googleusercontent.com/-ndZJOGgvYQ4/WM1ZI8dH86I/AAAAAAAADeo/l67ZqZnRUO8QXIQi38bEXuxqHfVX0TV2gCJoC/w424-h318-n-rw/thumbnail8.jpg" class="img-responsive">
+                         </div>
+                         <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                         <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                        </li>
+                        <hr>
+                        
+                        <li class="recent-post">
+                        <div class="post-img">
+                         <img src="https://lh3.googleusercontent.com/-ojLI116-Mxk/WM1ZIwdnuwI/AAAAAAAADeo/4K6VpwIPSfgsmlXJB5o0N8scuI3iW4OpwCJoC/w424-h318-n-rw/thumbnail6.jpg" class="img-responsive">
+                         </div>
+                         <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                         <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                        </li>
+                        <hr>
+                        
+                        <li class="recent-post">
+                        <div class="post-img">
+                         <img src="https://lh3.googleusercontent.com/-TrK1csbtHRs/WM1ZI1SIUNI/AAAAAAAADeo/OkiUjuad6skWl9ugxbiIA_436OwsWKBNgCJoC/w424-h318-n-rw/thumbnail3.jpg" class="img-responsive">
+                         </div>
+                         <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                         <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                        </li>
+                        <hr>
+                        
+                        <li class="recent-post">
+                        <div class="post-img">
+                         <img src="https://lh3.googleusercontent.com/-UKfIhJSBW9M/WM1ZI8ou34I/AAAAAAAADeo/vlLGY29147AYLaxUW29ZXJlun115BhkhgCJoC/w424-h318-n-rw/thumbnail7.jpg" class="img-responsive">
+                         </div>
+                         <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                         <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                        </li>
+                   	</ul>
+               </div>
+            </div>
+             
+            <div class="widget-sidebar">
+              	<h2 class="title-widget-sidebar">// ARCHIVES</h2>
+                <div class="last-post">
+                  <button class="accordion">21/4/2016</button>
+                   <div class="panel">
+                     <li class="recent-post">
+                      <div class="post-img">
+                       <img src="https://lh3.googleusercontent.com/-13DR8P0-AN4/WM1ZIz1lRNI/AAAAAAAADeo/XMfJ7CM-pQg9qfRuCgSnphzqhaj3SQg6QCJoC/w424-h318-n-rw/thumbnail4.jpg" class="img-responsive">
+                        </div>
+                       <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                      <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                    </li>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </div>
+                </div>                 
+                 <hr>
+                <div class="last-post">
+                  	<button class="accordion">5/7/2016</button>
+                   	<div class="panel">
+                     <li class="recent-post">
+                      <div class="post-img">
+                       <img src="https://lh3.googleusercontent.com/-QlnwuVgbxus/WM1ZI1FKQiI/AAAAAAAADeo/nGSd1ExnnfIfIBF27xs8-EdBdfglqFPZgCJoC/w424-h318-n-rw/thumbnail2.jpg" class="img-responsive">
+                        </div>
+                       <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                      <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                    </li>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </div>
+                </div>
+                 <hr>
+                <div class="last-post">
+                  	<button class="accordion">15/9/2016</button>
+                   <div class="panel">
+                     <li class="recent-post">
+                      <div class="post-img">
+                       <img src="https://lh3.googleusercontent.com/-wRHL_FOH1AU/WM1ZIxQZ3DI/AAAAAAAADeo/lwJr8xndbW4MHI-lOB7CQ-14FJB5f5SWACJoC/w424-h318-n-rw/thumbnail5.jpg" class="img-responsive">
+                        </div>
+                       <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                      <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                    </li>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </div>
+                </div>
+                 <hr>
+                <div class="last-post">
+                  <button class="accordion">2/3/2017</button>
+                   <div class="panel">
+                     <li class="recent-post">
+                      <div class="post-img">
+                       <img src="https://lh3.googleusercontent.com/-QlnwuVgbxus/WM1ZI1FKQiI/AAAAAAAADeo/nGSd1ExnnfIfIBF27xs8-EdBdfglqFPZgCJoC/w424-h318-n-rw/thumbnail2.jpg" class="img-responsive">
+                        </div>
+                       <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
+                      <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
+                    </li>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </div>
+                </div>
+            </div>
+             
+        <!-- CATEGORIES  -->
+            <div class="widget-sidebar">
+              	<h2 class="title-widget-sidebar">// CATEGORIES</h2>
+                <button class="categories-btn">Audio</button>
+                <button class="categories-btn">Blog</button>
+                <button class="categories-btn">Gallery</button>
+                <button class="categories-btn">Images</button>
+            </div>  
+             
+              <!--=====================
+                    NEWSLATTER
+             ======================-->
+<div class="widget-sidebar">
+ <h2 class="title-widget-sidebar">// NEWSLATTER</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut .</p>  
+<div class="input-group">
+      <span class="input-group-addon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+      <input id="email" type="text" class="form-control" name="email" placeholder="Email">
+    </div>
+    <button type="button" class="btn btn-warning">Warning</button>
+             </div>  
+                 
+                 
+             </div>
+           </div>
+         </div>
+     
+    </section>
+
+<section class="p-about com-padd">
+	<div class="container">
+			<div class="row">
+			    <h1>Article Thumbnails</h1>
+			    <p>Use it to your news site, feature a article.</p>
+			</div>
+		    <div class="row">
+				<div class="col-md-7">
+					<!-- artigo em destaque -->
+					<div class="featured-article">
+						<a href="#">
+							<img src="images/slider/1.jpg" alt="" class="thumb">
+						</a>
+						
+					</div>
+					<!-- /.featured-article -->
+				</div>
+				<div class="col-md-5">
+					<div class="home-list-pop list-spac list-spac-1 list-room-mar-o">
+						<div class="col-md-4">
+							<div><img src="images/services/s1.jpg" alt=""> </div> 
+							
+						</div>
+						<div class="col-md-8 home-list-pop-desc trdescr"> 
+							<div class="tr-location">
+								<a href="trainer-details.php"><h4>Effi Furniture Dealers</h4></a>
+								<span>   Hills, Los Angeles, USA.</span>
+							</div>
+							<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p> <span class="home-list-pop-rat">4.2</span>
+							
+						</div>
+					</div>
+								
+				</div>
+			</div>
+
+			<div class="row blog-single">
+				<div class="col-md-4">
+					<div class="blog-img"> <img src="images/services/20.jpg" alt="" /> </div>
+				</div>
+				<div class="col-md-8">
+					<div class="page-blog">
+						<h3>Top 10 best resorts in london, england</h3> <span>November 10, 2017</span>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p> <a class="waves-effect waves-light btn-large full-btn" href="blog-content.html">Read More</a> </div>
+				</div>
+			</div>
+			<div class="row blog-single">
+				<div class="col-md-4">
+					<div class="blog-img"> <img src="images/services/7.jpg" alt="" /> </div>
+				</div>
+				<div class="col-md-8">
+					<div class="page-blog">
+						<h3>Building & Construction Service Providers</h3> <span>May 21, 2017</span>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p> <a class="waves-effect waves-light btn-large full-btn" href="blog-content.html">Read More</a> </div>
+				</div>
+			</div>
+			<div class="row blog-single">
+				<div class="col-md-4">
+					<div class="blog-img"> <img src="images/services/9.jpg" alt="" /> </div>
+				</div>
+				<div class="col-md-8">
+					<div class="page-blog">
+						<h3>Top export products from Canada</h3> <span>April 18, 2017</span>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p> <a class="waves-effect waves-light btn-large full-btn" href="blog-content.html">Read More</a> </div>
+				</div>
+			</div>
+			<div class="row blog-single">
+				<div class="col-md-4">
+					<div class="blog-img"> <img src="images/services/10.jpg" alt="" /> </div>
+				</div>
+				<div class="col-md-8">
+					<div class="page-blog">
+						<h3>Grand opening operation research center</h3> <span>November 10, 2017</span>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p> <a class="waves-effect waves-light btn-large full-btn" href="blog-content.html">Read More</a> </div>
+				</div>
+			</div>
+			<div class="row blog-single">
+				<div class="col-md-4">
+					<div class="blog-img"> <img src="images/services/15.jpg" alt="" /> </div>
+				</div>
+				<div class="col-md-8">
+					<div class="page-blog">
+						<h3>How to make healthy veg salad at home</h3> <span>February 10, 2017</span>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p> <a class="waves-effect waves-light btn-large full-btn" href="blog-content.html">Read More</a> </div>
+				</div>
+			</div>
+			<div class="row blog-single con-com-mar-bot-o">
+				<div class="col-md-4">
+					<div class="blog-img"> <img src="images/services/11.jpg" alt="" /> </div>
+				</div>
+				<div class="col-md-8">
+					<div class="page-blog">
+						<h3>Fast construction techniques</h3> <span>March 08, 2017</span>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p> <a class="waves-effect waves-light btn-large full-btn" href="blog-content.html">Read More</a> </div>
+				</div>
+			</div>
+		</div>
+	</section>
 <div class="row">
 	<div class="posts_areaa col-md-8"><!-- posts_areaa -->
 						<div class="row">
@@ -716,3 +1221,4 @@
 						</div>
 					</div> 
 </div>
+<?php include("includes/footer.php"); ?>
