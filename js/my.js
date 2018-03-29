@@ -13,4 +13,11 @@ $(document).ready(function(){
     	$(".showadvanceflte").slideToggle(500);
 
     });
+
+
+    $(document).ready(function() {
+    $('#blogCarousel').carousel({
+        interval: 10000
+    })
+});
 });
