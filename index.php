@@ -10,7 +10,7 @@
 					<p>Explore some of the best business from around the world from our partners and friends.</p>
 				</div>
 				<div class="col-md-6">
-					<a href="list-lead.html">
+					<a href="pet-details.php">
 						<div class="list-mig-like-com">
 							<div class="list-mig-lc-img"> <img src="images/listing/home.jpg" alt="" /> </div>
 							<div class="list-mig-lc-con">
@@ -22,7 +22,7 @@
 					</a>
 				</div>
 				<div class="col-md-3">
-					<a href="list-lead.html">
+					<a href="pet-details.php">
 						<div class="list-mig-like-com">
 							<div class="list-mig-lc-img"> <img src="images/listing/home2.jpg" alt="" /> </div>
 							<div class="list-mig-lc-con list-mig-lc-con2">
@@ -33,7 +33,7 @@
 					</a>
 				</div>
 				<div class="col-md-3">
-					<a href="list-lead.html">
+					<a href="pet-details.php">
 						<div class="list-mig-like-com">
 							<div class="list-mig-lc-img"> <img src="images/listing/home3.jpg" alt="" /> </div>
 							<div class="list-mig-lc-con list-mig-lc-con2">
@@ -44,7 +44,7 @@
 					</a>
 				</div>
 				<div class="col-md-3">
-					<a href="list-lead.html">
+					<a href="pet-details.php">
 						<div class="list-mig-like-com">
 							<div class="list-mig-lc-img"> <img src="images/listing/home4.jpg" alt="" /> </div>
 							<div class="list-mig-lc-con list-mig-lc-con2">
@@ -55,7 +55,7 @@
 					</a>
 				</div>
 				<div class="col-md-3">
-					<a href="list-lead.html">
+					<a href="pet-details.php">
 						<div class="list-mig-like-com">
 							<div class="list-mig-lc-img"> <img src="images/listing/home1.jpg" alt="" /> </div>
 							<div class="list-mig-lc-con list-mig-lc-con2">
@@ -134,57 +134,57 @@
 		<div class="container">
 			<div class="row">
 				<div class="com-title">
-					<h2>Check your <span>Best Pet</span></h2>
+					<h2>Search with <span>Best Category</span></h2>
 					
 				</div>
 				<div class="dir-hli">
 					<ul>
 						<!--=====LISTINGS======-->
 						<li class="col-md-4 col-sm-6">
-							<a href="list.html">
+							<a href="pets.php">
 								<div class="dir-hli-5">
 									<div class="dir-hli-1">
 										<div class="dir-hli-3"><img src="images/hci1.png" alt=""> </div>
 										<div class="dir-hli-4"> </div> <img src="images/services/15.jpg" alt=""> </div>
 									<div class="dir-hli-2">
-										<h4>Hotels & Resorts <span class="dir-ho-cat">Show All (940)</span></h4> </div>
+										<h4>Pets <span class="dir-ho-cat">Show All (940)</span></h4> </div>
 								</div>
 							</a>
 						</li>
 						<!--=====LISTINGS======-->
 						<li class="col-md-4 col-sm-6">
-							<a href="list-grid.html">
+							<a href="cats.php">
 								<div class="dir-hli-5">
 									<div class="dir-hli-1">
 										<div class="dir-hli-3"><img src="images/hci1.png" alt=""> </div>
 										<div class="dir-hli-4"> </div> <img src="images/services/13.jpg" alt=""> </div>
 									<div class="dir-hli-2">
-										<h4>Hospitals <span class="dir-ho-cat">Show All (174)</span></h4> </div>
+										<h4>Cats  <span class="dir-ho-cat">Show All (174)</span></h4> </div>
 								</div>
 							</a>
 						</li>
 						<!--=====LISTINGS======-->
 						<li class="col-md-4 col-sm-6">
-							<a href="list.html">
+							<a href="pet-doctors.php">
 								<div class="dir-hli-5">
 									<div class="dir-hli-1">
 										<div class="dir-hli-3"><img src="images/hci1.png" alt=""> </div>
 										<div class="dir-hli-4"> </div> <img src="images/services/9.jpg" alt=""> </div>
 									<div class="dir-hli-2">
-										<h4>Transportation <span class="dir-ho-cat">Show All (624)</span></h4> </div>
+										<h4>Pet Doctors <span class="dir-ho-cat">Show All (624)</span></h4> </div>
 								</div>
 							</a>
 						</li>
 						
 						<!--=====LISTINGS======-->
 						<li class="col-md-4 col-sm-6">
-							<a href="list.html">
+							<a href="pet-trainers.php">
 								<div class="dir-hli-5">
 									<div class="dir-hli-1">
 										<div class="dir-hli-3"><img src="images/hci1.png" alt=""> </div>
 										<div class="dir-hli-4"> </div> <img src="images/services/2.jpg" alt=""> </div>
 									<div class="dir-hli-2">
-										<h4>Automobilers <span class="dir-ho-cat">Show All (745)</span></h4> </div>
+										<h4>Pet Trainers <span class="dir-ho-cat">Show All (745)</span></h4> </div>
 								</div>
 							</a>
 						</li>
@@ -197,7 +197,7 @@
 
 
 						<li class="col-md-4 col-sm-6">
-							<a href="list-grid.html">
+							<a href="pets.php">
 								<div class="dir-hli-5">
 									<div class="dir-hli-1">
 										<div class="dir-hli-3"><img src="images/hci1.png" alt=""> </div>
@@ -209,7 +209,7 @@
 						</li>
 						<!--=====LISTINGS======-->
 						<li class="col-md-4 col-sm-6">
-							<a href="list.html">
+							<a href="pets.php">
 								<div class="dir-hli-5">
 									<div class="dir-hli-1">
 										<div class="dir-hli-3"><img src="images/hci1.png" alt=""> </div>

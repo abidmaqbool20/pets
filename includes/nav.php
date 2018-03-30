@@ -66,7 +66,7 @@
 							<a href="doctors.php"><img src="images/icon/hcat3.png" alt=""> Doctors</a>
 						</li>
 						<li>
-							<a href="#"><img src="images/icon/hcat4.png" alt=""> Care Takers</a>
+							<a href="care-takers.php"><img src="images/icon/hcat4.png" alt=""> Care Takers</a>
 						</li>
 						<li>
 							<a href="#"><img src="images/icon/hcat5.png" alt=""> Insurance Providers</a>

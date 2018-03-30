@@ -63,9 +63,259 @@
 	        </div>
 	        <div class="col-md-8">
 	        	<div class="row">
+	        		<!-- Pets News --> 
 	        		<div class="bpost pglist-p3 pglist-bg pglist-p-com" >
 						<div class="pglist-p-com-ti">
-						<h3>Featured News  <a href="" class="pull-right view-all">view all</a></h3> </div>
+						<h3>Pets News  <a href="" class="pull-right view-all">view all</a></h3> </div>
+						<div class="list-pg-inn-sp">
+							<div class="row">
+								<div class="col-md-6 col-lg-6">
+									<!-- artigo em destaque -->
+									<div class="featured-article">
+										<a href="#">
+											<img src="http://placehold.it/482x350" alt="" class="thumb">
+										</a>
+										<div class="block-title">
+											<h4>Lorem ipsum dolor asit amet</h4>
+											<p>Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua..</p>
+											<em  class="by-author">By Jhon Doe</em>
+										</div>
+									</div>
+									<!-- /.featured-article -->
+								</div>
+								<div class="col-md-6 col-lg-6">
+									<ul class="media-list main-list">
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Pets News --> 
+	        		<div class="bpost pglist-p3 pglist-bg pglist-p-com" >
+						<div class="pglist-p-com-ti">
+						<h3>Cats News  <a href="" class="pull-right view-all">view all</a></h3> </div>
+						<div class="list-pg-inn-sp">
+							<div class="row">
+								<div class="col-md-6 col-lg-6">
+									<!-- artigo em destaque -->
+									<div class="featured-article">
+										<a href="#">
+											<img src="http://placehold.it/482x350" alt="" class="thumb">
+										</a>
+										<div class="block-title">
+											<h4>Lorem ipsum dolor asit amet</h4>
+											<p>Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua..</p>
+											<em  class="by-author">By Jhon Doe</em>
+										</div>
+									</div>
+									<!-- /.featured-article -->
+								</div>
+								<div class="col-md-6 col-lg-6">
+									<ul class="media-list main-list">
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+						<div class="bpost pglist-p3 pglist-bg pglist-p-com" >
+						<div class="pglist-p-com-ti">
+						<h3>Cats News  <a href="" class="pull-right view-all">view all</a></h3> </div>
+						<div class="list-pg-inn-sp">
+							<div class="row">
+								<div class="col-md-6 col-lg-6">
+									<!-- artigo em destaque -->
+									<div class="featured-article">
+										<a href="#">
+											<img src="http://placehold.it/482x350" alt="" class="thumb">
+										</a>
+										<div class="block-title">
+											<h4>Lorem ipsum dolor asit amet</h4>
+											<p>Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua..</p>
+											<em  class="by-author">By Jhon Doe</em>
+										</div>
+									</div>
+									<!-- /.featured-article -->
+								</div>
+								<div class="col-md-6 col-lg-6">
+									<ul class="media-list main-list">
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+						<div class="bpost pglist-p3 pglist-bg pglist-p-com" >
+						<div class="pglist-p-com-ti">
+						<h3>Cats News  <a href="" class="pull-right view-all">view all</a></h3> </div>
+						<div class="list-pg-inn-sp">
+							<div class="row">
+								<div class="col-md-6 col-lg-6">
+									<!-- artigo em destaque -->
+									<div class="featured-article">
+										<a href="#">
+											<img src="http://placehold.it/482x350" alt="" class="thumb">
+										</a>
+										<div class="block-title">
+											<h4>Lorem ipsum dolor asit amet</h4>
+											<p>Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua..</p>
+											<em  class="by-author">By Jhon Doe</em>
+										</div>
+									</div>
+									<!-- /.featured-article -->
+								</div>
+								<div class="col-md-6 col-lg-6">
+									<ul class="media-list main-list">
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+										<li class="media">
+										    <div class="pull-left">
+										      <img class="media-object" src="http://placehold.it/100x66" alt="...">
+										    </div>
+										    <div class="small-post">
+										    <a href="">  <h5 class="media-heading">Lorem ipsum dolor asit amet ipsum dolor</h5> </a>
+										      <p class="by-author">By Jhon Doe</p>
+										    </div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+						<div class="bpost pglist-p3 pglist-bg pglist-p-com" >
+						<div class="pglist-p-com-ti">
+						<h3>Cats News  <a href="" class="pull-right view-all">view all</a></h3> </div>
 						<div class="list-pg-inn-sp">
 							<div class="row">
 								<div class="col-md-6 col-lg-6">
@@ -263,12 +513,9 @@
 								</div>
 							</div>
 						</div>
-					
+					</div>
 				</div>
-				</div>
-				
-
-	        </div>
+			</div>
 	    
 
 
@@ -403,6 +650,21 @@
 
 						</ul>
 					</div>
+
+					<div class="widget widget_categories"><!-- Start widget categories -->
+						<h4 class="widget_title">Categories</h4>
+						<ul class="categories">
+							<li><a href="#">Music <span>(5)</span></a><i class="fa fa-angle-double-right"></i></li>
+							<li><a href="#">Fashion <span>(10)</span></a><i class="fa fa-angle-double-right"></i></li>
+							<li><a href="#">Media <span>(5)</span></a><i class="fa fa-angle-double-right"></i></li>
+							<li><a href="#">Medical <span>(10)</span></a><i class="fa fa-angle-double-right"></i></li>
+							<li><a href="#">Sports <span>(5)</span></a><i class="fa fa-angle-double-right"></i></li>
+							<li><a href="#">Internet <span>(10)</span></a><i class="fa fa-angle-double-right"></i></li>
+							<li><a href="#">Technology <span>(6)</span></a><i class="fa fa-angle-double-right"></i></li>
+						</ul>
+					</div>
+
+
 					<div class="widget widget_recent_post"><!-- Start widget recent post -->
 						<h4 class="widget_title">Recent Post</h4>
 						<ul class="recent_post">

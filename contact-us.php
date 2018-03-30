@@ -1,8 +1,12 @@
 <?php include("includes/header.php"); ?>
-<?php include("includes/nav.php"); ?>
+<?php include("includes/nav-2.php"); ?>
 
 		<div class="con-page">
+
+		
+	
 			<div class="con-page-ri">
+				<?php include("includes/breadcrumbs.php"); ?>
 				<div class="con-com">
 					<h4 class="con-tit-top-o">Address & Contact Info</h4>
 					<p>28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A. Landmark : Next To Airport</p> <span><img src="images/icon/phone.png" alt="" /> Phone: +01 3214 6581</span> <span><img src="images/icon/mail.png" alt="" /> Email: support@listing.com</span>
