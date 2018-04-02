@@ -1,5 +1,164 @@
 <?php include("includes/header.php"); ?>
 <?php include("includes/nav-2.php"); ?>
+<section class="dir-pa-sp-top bdyclrgray">
+		<div class="container">
+		  	<?php include("includes/breadcrumbs.php"); ?>
+	        <div class="row filterform">
+		        <form class="">
+		  			<div class="col-md-12 bg-gray">
+				       	<div class="col-md-12 col-sm-9 ">
+							<div class="row">
+								<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Category </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+								<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Select city and view Ads </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Category </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			 <div class="col-md-3 col-sm-3">
+						        	<button type="button" class="btn-link app-search" id="advancefilter">
+						               	<span id="search_concept"  >Advance Filter</span> <span class="glyphicon glyphicon-filter"></span>
+						            </button>
+						        </div>
+							</div>
+						</div>
+					</div>
+			       	<div class="col-md-12 bg-gray">
+		        		<div class="col-md-12 showadvanceflte  " style="display: none;"  >
+			        		<div class="row">
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Type Pets </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Age </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Sex </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div > Color </div>
+			        					<div > 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Price </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4 col-xs-12">
+			        				<div class="row">
+			        					<div> Weight </div>
+			        					<div> 
+			        						<select class="fullselect form-control">
+												<option value="HI">Hawaii</option>
+												<option value="CA">California</option>
+												<option value="NV">Nevada</option>
+												<option value="OR">Oregon</option>
+												<option value="WA">Washington</option>
+											</select>
+			        					</div>
+			        				</div>
+			        			</div>
+			        			<div class="col-md-3 col-sm-4"></div>
+			        			<div class="col-md-3">
+			        				<div class="input-field">
+										<i class="waves-effect waves-light btn-lg tourz-top-sear-btn waves-input-wrapper" style=""><input type="submit" value="" class="waves-button-input"></i>
+									</div>
+
+			        			</div>
+			        		</div>
+		        		</div>
+		        	 </div>
+		     	</form>
+	     	</div>
+		</div>
+	</section>
 <!--LISTING DETAILS-->
 
 	<section class="pg-list-1">
@@ -677,7 +836,7 @@
 											<div class="nearestdctr"> Effi Furniture Dealers</div>
 											<span class="home-list-pop-rat">4.2</span>
 											<p class="pclr"><span>From</span> $410</p>
-											<span> <i class="fa fa-map-marker fa-1x"></i>  Hills, Los Angeles, USA.</span>
+											<span> Pets | <i class="fa fa-map-marker fa-1x"></i> Los Angeles, USA.</span>
 										</div>
 									</div>
 								</a>

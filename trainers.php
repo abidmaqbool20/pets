@@ -4,10 +4,9 @@
 <section class="dir-pa-sp-top bdyclrgray">
 	<div class="container">
 	  	<?php include("includes/breadcrumbs.php"); ?>
-        <div class="row filterform">
-	        <form class="">
-	  			<div class="col-md-12 bg-gray">
-			       	<div class="col-md-12 col-sm-9 ">
+       	<div class="col-md-12">
+    		<form class="row filterform">
+	  			<div class="col-md-12 col-sm-9 ">
 						<div class="row">
 							<div class="col-md-3 col-sm-4 col-xs-12">
 		        				<div class="row">
@@ -57,10 +56,8 @@
 					            </button>
 					        </div>
 						</div>
-					</div>
 				</div>
-		       	<div class="col-md-12 bg-gray">
-	        		<div class="col-md-12 showadvanceflte  " style="display: none;"  >
+				<div class="col-md-12 showadvanceflte " style="display: none;"  >
 		        		<div class="row">
 		        			<div class="col-md-3 col-sm-4 col-xs-12">
 		        				<div class="row">
@@ -154,15 +151,14 @@
 
 		        			</div>
 		        		</div>
-	        		</div>
-	        	 </div>
-	     	</form>
-     	</div>
+	        	</div>
+	        </form>
+        </div>
 	</div>
 </section>
-<section class=" bdyclrgray">
+<section class="bdyclrgray">
 		<div class="container dir-hom-pre-tit">
-			<div class="row com-padd com-padd-redu-bot1">
+			<div class="row p-30-top com-padd-redu-bot1">
 				<div class="col-md-6">
 					<div>
 						<div class="home-list-pop">

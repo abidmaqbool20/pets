@@ -50,6 +50,12 @@
 .p-10 {
     padding: 10px;
 }
+.p-30-top {
+  padding-top: 20px;
+}
+.p-30-bottom {
+  padding-top: 20px;
+}
 .nrmlpadd-20 {
   padding: 20px 0 20px 0;
 }
@@ -65,9 +71,10 @@
   font-weight: bold;
 }
 .pclr {
-  color: #5a1375 !important;
+  color: #b007f1 !important;
   font-weight: 500;
-  padding: 5px 0 0 0;
+  padding: 2px 0 2px 0;
+  margin: 0px;
 }
 .frmstyle {
     margin-top: 10px;
