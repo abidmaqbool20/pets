@@ -24,9 +24,6 @@
 
 }
 .bxshadow {
-  
- 
-
   -moz-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
   -webkit-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
   box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
@@ -52,6 +49,25 @@
 }
 .p-10 {
     padding: 10px;
+}
+.nrmlpadd-20 {
+  padding: 20px 0 20px 0;
+}
+.imgpadd {
+  padding: 0 0 10px 5px;
+}
+.bottom-nomar {
+  margin-bottom : 0 !important;
+}
+.nearestdctr {
+  font-size: 16px;
+  color: #828282;
+  font-weight: bold;
+}
+.pclr {
+  color: #5a1375 !important;
+  font-weight: 500;
+  padding: 5px 0 0 0;
 }
 .frmstyle {
     margin-top: 10px;

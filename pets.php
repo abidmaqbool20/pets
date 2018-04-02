@@ -6,7 +6,7 @@
 <section class="dir-pa-sp-top">
 	<div class="container">
 	  	<?php include("includes/breadcrumbs.php"); ?>
-	        <div class="row filterform">
+        <div class="row filterform">
 	        <form class="">
 	  			<div class="col-md-12 bg-gray">
 			       	<div class="col-md-12 col-sm-9 ">
@@ -159,11 +159,8 @@
 	        		</div>
 	        	 </div>
 	     	</form>
-	     	</div>
-	     
-		</div>
-	
-
+     	</div>
+	</div>
 </section>
 
 
@@ -172,7 +169,7 @@
 			
 			<div class="row span-none">
 				<div class="col-md-4">
-					<a href="#!">
+					<a href="pet-details.php">
 						<div class="list-mig-like-com com-mar-bot-30">
 							<div class="list-mig-lc-img"> <img src="images/listing/1.jpg" alt=""> <span class="home-list-pop-rat list-mi-pr">$720</span> </div>
 							<div class="list-mig-lc-con">

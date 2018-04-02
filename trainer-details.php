@@ -134,7 +134,74 @@
 										</div>
 									</div>
 								</div>
-								<div id="portfolios"></div>
+								<div id="portfolios">
+									<div class="pglist-p3 pglist-bg pglist-p-com">
+										<div class="pglist-p-com-ti">
+											<h3><span>Write Your</span> Inquiry</h3> </div>
+										<div class="list-pg-inn-sp">
+											<div class="list-pg-write-rev">
+												<form class="col">
+													<p>Writing great reviews may help others discover the places that are just apt for them. Here are a few tips to write a good review:</p>
+													<div class="row">
+														<div class="col s12">
+															<fieldset class="rating">
+																<input type="radio" id="star5" name="rating" value="5">
+																<label class="full" for="star5" title="Awesome - 5 stars"></label>
+																<input type="radio" id="star4half" name="rating" value="4 and a half">
+																<label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
+																<input type="radio" id="star4" name="rating" value="4">
+																<label class="full" for="star4" title="Pretty good - 4 stars"></label>
+																<input type="radio" id="star3half" name="rating" value="3 and a half">
+																<label class="half" for="star3half" title="Meh - 3.5 stars"></label>
+																<input type="radio" id="star3" name="rating" value="3">
+																<label class="full" for="star3" title="Meh - 3 stars"></label>
+																<input type="radio" id="star2half" name="rating" value="2 and a half">
+																<label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
+																<input type="radio" id="star2" name="rating" value="2">
+																<label class="full" for="star2" title="Kinda bad - 2 stars"></label>
+																<input type="radio" id="star1half" name="rating" value="1 and a half">
+																<label class="half" for="star1half" title="Meh - 1.5 stars"></label>
+																<input type="radio" id="star1" name="rating" value="1">
+																<label class="full" for="star1" title="Sucks big time - 1 star"></label>
+																<input type="radio" id="starhalf" name="rating" value="half">
+																<label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+															</fieldset>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s6">
+															<input id="re_name" type="text" class="validate">
+															<label for="re_name">Full Name</label>
+														</div>
+														<div class="input-field col s6">
+															<input id="re_mob" type="number" class="validate">
+															<label for="re_mob">Mobile</label>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s6">
+															<input id="re_mail" type="email" class="validate">
+															<label for="re_mail">Email id</label>
+														</div>
+														<div class="input-field col s6">
+															<input id="re_city" type="text" class="validate">
+															<label for="re_city">City</label>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s12">
+															<textarea id="re_msg" class="materialize-textarea"></textarea>
+															<label for="re_msg" class="">Write review</label>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s12"> <a class="waves-effect waves-light btn-large full-btn" href="#!">Submit Inquiry</a> </div>
+													</div>
+												</form>
+											</div>
+										</div>
+									</div>
+								</div>
 								<div id="reviewes">
 									<div class="pglist-p3 pglist-bg pglist-p-com" id="ld-rer">
 										<div class="pglist-p-com-ti">
@@ -275,6 +342,72 @@
 											</div>
 										</div>
 									</div>
+									<div class="pglist-p3 pglist-bg pglist-p-com">
+										<div class="pglist-p-com-ti">
+											<h3><span>Write Your</span> Inquiry</h3> </div>
+										<div class="list-pg-inn-sp">
+											<div class="list-pg-write-rev">
+												<form class="col">
+													<p>Writing great reviews may help others discover the places that are just apt for them. Here are a few tips to write a good review:</p>
+													<div class="row">
+														<div class="col s12">
+															<fieldset class="rating">
+																<input type="radio" id="star5" name="rating" value="5">
+																<label class="full" for="star5" title="Awesome - 5 stars"></label>
+																<input type="radio" id="star4half" name="rating" value="4 and a half">
+																<label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
+																<input type="radio" id="star4" name="rating" value="4">
+																<label class="full" for="star4" title="Pretty good - 4 stars"></label>
+																<input type="radio" id="star3half" name="rating" value="3 and a half">
+																<label class="half" for="star3half" title="Meh - 3.5 stars"></label>
+																<input type="radio" id="star3" name="rating" value="3">
+																<label class="full" for="star3" title="Meh - 3 stars"></label>
+																<input type="radio" id="star2half" name="rating" value="2 and a half">
+																<label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
+																<input type="radio" id="star2" name="rating" value="2">
+																<label class="full" for="star2" title="Kinda bad - 2 stars"></label>
+																<input type="radio" id="star1half" name="rating" value="1 and a half">
+																<label class="half" for="star1half" title="Meh - 1.5 stars"></label>
+																<input type="radio" id="star1" name="rating" value="1">
+																<label class="full" for="star1" title="Sucks big time - 1 star"></label>
+																<input type="radio" id="starhalf" name="rating" value="half">
+																<label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+															</fieldset>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s6">
+															<input id="re_name" type="text" class="validate">
+															<label for="re_name">Full Name</label>
+														</div>
+														<div class="input-field col s6">
+															<input id="re_mob" type="number" class="validate">
+															<label for="re_mob">Mobile</label>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s6">
+															<input id="re_mail" type="email" class="validate">
+															<label for="re_mail">Email id</label>
+														</div>
+														<div class="input-field col s6">
+															<input id="re_city" type="text" class="validate">
+															<label for="re_city">City</label>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s12">
+															<textarea id="re_msg" class="materialize-textarea"></textarea>
+															<label for="re_msg" class="">Write review</label>
+														</div>
+													</div>
+													<div class="row">
+														<div class="input-field col s12"> <a class="waves-effect waves-light btn-large full-btn" href="#!">Submit Inquiry</a> </div>
+													</div>
+												</form>
+											</div>
+										</div>
+									</div>
 								</div>
 								<div id="maplocation">
 									<div class="pglist-p12 pglist-bg pglist-p-com">
@@ -359,7 +492,7 @@
 								</div>
 							</div>
 						</div>
-						<p><br> <br> </p>
+						
 						<div class="col-md-12">
 							<div class="pglist-p3 pglist-bg pglist-p-com" id="ld-roo">
 								<div class="pglist-p-com-ti">
@@ -534,37 +667,64 @@
 						</div>
 						<div class="list-mig-like">
 							<div class="list-ri-spec-tit">
-							<h3><span>Rwlated Nearest</span> Doctor </h3> </div>
-							<a href="#!">
-								<div class="list-mig-like-com">
-									<div class="list-mig-lc-img"> <img src="images/listing/1.jpg" alt="" /> <span class="home-list-pop-rat list-mi-pr">$720</span> </div>
-									<div class="list-mig-lc-con">
-										<div class="list-rat-ch list-room-rati"> <span>4.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
-										<h5>Holiday Inn Express</h5>
-										<p>Illinois City,</p>
+							<h3><span>Related Nearest</span> Doctor </h3> </div>
+								<a href="trainer-details.php" class="bottom-nop">
+									<div class="home-list-pop bottom-nomar">
+										<div class="col-md-3 imgpadd">
+											<img src="images/services/s1.jpg" alt="">
+										</div>
+										<div class="col-md-9 trdescr no-padd"> 
+											<div class="nearestdctr"> Effi Furniture Dealers</div>
+											<span class="home-list-pop-rat">4.2</span>
+											<p class="pclr"><span>From</span> $410</p>
+											<span> <i class="fa fa-map-marker fa-1x"></i>  Hills, Los Angeles, USA.</span>
+										</div>
 									</div>
-								</div>
-							</a>
-							<a href="#!">
-								<div class="list-mig-like-com">
-									<div class="list-mig-lc-img"> <img src="images/listing/2.jpg" alt="" /> <span class="home-list-pop-rat list-mi-pr">$420</span> </div>
-									<div class="list-mig-lc-con">
-										<div class="list-rat-ch list-room-rati"> <span>3.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
-										<h5>InterContinental</h5>
-										<p>Illinois City,</p>
+								</a>
+								<a href="trainer-details.php" class="bottom-nop">
+									<div class="home-list-pop bottom-nomar">
+										<div class="col-md-3 imgpadd">
+											<img src="images/services/s1.jpg" alt="">
+										</div>
+										<div class="col-md-9 trdescr no-padd"> 
+											<div class="nearestdctr"> Effi Furniture Dealers</div>
+											<span class="home-list-pop-rat">4.2</span>
+											<p class="pclr"><span>From</span> $410</p>
+											<span> <i class="fa fa-map-marker fa-1x"></i>  Hills, Los Angeles, USA.</span>
+										</div>
 									</div>
-								</div>
-							</a>
-							<a href="#!">
-								<div class="list-mig-like-com">
-									<div class="list-mig-lc-img"> <img src="images/listing/3.jpg" alt="" /> <span class="home-list-pop-rat list-mi-pr">$380</span> </div>
-									<div class="list-mig-lc-con">
-										<div class="list-rat-ch list-room-rati"> <span>5.0</span> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> </div>
-										<h5>Staybridger Suites</h5>
-										<p>Illinois City,</p>
+								</a>
+								<a href="trainer-details.php" class="bottom-nop">
+									<div class="home-list-pop bottom-nomar">
+										<div class="col-md-3 imgpadd">
+											<img src="images/services/s1.jpg" alt="">
+										</div>
+										<div class="col-md-9 trdescr no-padd"> 
+											<div class="nearestdctr"> Effi Furniture Dealers</div>
+											<span class="home-list-pop-rat">4.2</span>
+											<p class="pclr"><span>From</span> $410</p>
+											<span> <i class="fa fa-map-marker fa-1x"></i>  Hills, Los Angeles, USA.</span>
+										</div>
 									</div>
-								</div>
-							</a>
+								</a>
+								<a href="trainer-details.php" class="bottom-nop">
+									<div class="home-list-pop bottom-nomar">
+										<div class="col-md-3 imgpadd">
+											<img src="images/services/s1.jpg" alt="">
+										</div>
+										<div class="col-md-9 trdescr no-padd"> 
+											<div class="nearestdctr"> Effi Furniture Dealers</div>
+											<span class="home-list-pop-rat">4.2</span>
+											<p class="pclr"><span>From</span> $410</p>
+											<span> <i class="fa fa-map-marker fa-1x"></i>  Hills, Los Angeles, USA.</span>
+										</div>
+									</div>
+								</a>
+
+
+								
+							
+							
 						</div>
 					</div>
 				</div>
