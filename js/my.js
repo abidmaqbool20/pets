@@ -20,4 +20,41 @@ $(document).ready(function(){
         interval: 10000
     })
 });
+
+
+
 });
+
+function openNav() {
+  
+   document.getElementById("searchLay").style.display = "block";
+}
+
+function closeNav() {
+    document.getElementById("searchLay").style.display = "none";
+}
+
+
+
+// $(document).ready(function(){
+//     $(".dropdown").hover(            
+//         function() {
+//             $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true,true).slideDown("400");
+//             $(this).toggleClass('open');        
+//         },
+//         function() {
+//             $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true,true).slideUp("400");
+//             $(this).toggleClass('open');       
+//         }
+//     );
+
+
+
+
+
+    // BS tabs hover (instead - hover write - click)
+//     $('.tab-menuleft a').hover(function (e) {
+//       e.preventDefault()
+//       $(this).tab('show')
+//     })
+// });

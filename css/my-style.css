@@ -1196,3 +1196,101 @@ color: #7b7b7b;
 .personal_info label{
   color: #555;
 }
+/*Navigation */
+
+.navbar-inverse
+{
+  background-color: #fff !important;
+  border: none;
+  box-shadow: none;
+  height: auto !important; 
+}
+.navbar-brand {
+  padding: 0;
+}
+.mega-dropdown {
+  position: static !important;
+}
+.mega-dropdown-menu {
+    padding: 20px 0px;
+    width: 100%;
+    font-size: 16px;
+    color: #333333;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    margin-top: 8px;
+}
+.navbar-mega ul li a {
+
+    font-size: 16px;
+    color: #333333;
+  }
+.navbar-nav > li > .dropdown-menu {
+  margin-top: 8px;
+}
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  color: #333;
+  padding: 3px 5px;
+}
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  text-decoration: none;
+}
+.mega-dropdown-menu .dropdown-header {
+  font-size: 18px;
+  color: #ff3546;
+  padding: 5px 60px 5px 5px;
+  line-height: 30px;
+}
+/*.sidenav {
+  border-right: 1px solid #e5e9ec;
+}
+.sidenav li {
+  height: 40px;
+  line-height: 40px;
+ 
+  background-color: #eeeeee;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #333;
+}
+.sidebar-menu {
+  display: none;
+  position: absolute;
+left: 156px;
+top: 0;
+width: 100%;
+}
+.sidenav li:hover .sidebar-menu {
+display: block;
+
+}*/
+/* .brand-pills > li > a {
+        border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+    }
+    
+    li.brand-nav.active a:after{
+      content: " ";
+      display: block;
+      width: 0;
+      height: 0;
+      border-top: 20px solid transparent;
+      border-bottom: 20px solid transparent;
+      border-left: 9px solid #428bca;
+      position: absolute;
+      top: 50%;
+      margin-top: -20px;
+      left: 100%;
+      z-index: 2;
+    }*/
+
+
+.blok{margin:30px;}

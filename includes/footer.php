@@ -153,6 +153,10 @@
 
 	<script src="js/bootstrap.js" type="text/javascript"></script>
 	<script src="js/materialize.min.js" type="text/javascript"></script>
+	<script src="js/search.js"></script>
+	<script src="js/ttmenu.js"></script>
+	<script src="js/jquery.fitvids.js"></script>
+	<script src="js/switcher.js"></script>
  
 	<script src="js/custom.js"></script>
  

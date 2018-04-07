@@ -1,5 +1,6 @@
 <?php include("includes/header.php"); ?>
 <?php include("includes/nav-2.php"); ?>
+<?php include("search.php") ?>
 
 	<section class="dir-pa-sp-top">
 		<div class="container">

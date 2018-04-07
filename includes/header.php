@@ -14,6 +14,7 @@
  
 	<link href="css/materialize.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
+	<link href="css/animate.css" rel="stylesheet">
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
 
  	
@@ -21,9 +22,9 @@
  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
  <link href="css/my-style.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-	<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css
-
-">
+	<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
+	 <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/menu.css" rel="stylesheet">
  
  	<script src="js/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
