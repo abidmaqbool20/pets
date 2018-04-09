@@ -1,7 +1,7 @@
 <section>
-	<div class="top-menu-s">
+	<div class="top-menu-s navbar-fixed-top">
 		<div class="container">
-            <div class="hovermenu ttmenu dark-style menu-red-gradient top-menu-s">
+            <div class="hovermenu ttmenu dark-style menu-red-gradient">
                 <div class="navbar navbar-default" role="navigation">
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -452,16 +452,13 @@
                                     </li>
                                 </ul>
                             </li><!-- end mega menu -->
+                            
                         </ul><!-- end nav navbar-nav -->
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <form class="searchbox">
-                                	<a href="javascript:void(0)" class="closebtn searchbox-input" onclick="openNav()"> 
+                                <a href="javascript:void(0)" class="closebtn searchbox" onclick="openNav()"> 
                                     <span class="searchbox-icon animated"><i class="fa fa-search"></i></span>
-                                	</a>
-                                   
-                                   
-                                </form>
+                                </a>
                             </li>
                         </ul><!-- end nav navbar-nav navbar-right -->
                     </div><!--/.nav-collapse -->
