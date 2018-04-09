@@ -24,7 +24,7 @@
                                     <div class="ttmenu-content">
                                         <div class="tabbable row">
                                             <div class="col-md-3 navbar-left">
-                                                <ul class="nav nav-pills nav-stacked" style="padding-left: 0 !important">
+                                                <ul class="nav nav-pills nav-stacked">
                                                     <li class="active"><a href="#Dogs-Tab" data-toggle="tab">Dogs</a></li>
                                                     <li><a href="#Cats-Tab2" data-toggle="tab">Cats</a></li>
                                                     <li><a href="#DoctoR-Tab2" data-toggle="tab">Doctors</a></li>
