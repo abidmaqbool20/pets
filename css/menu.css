@@ -50,7 +50,7 @@
     /*margin-top:15px;*/
 }
 .ttmenu .navbar ul {
-    padding-left:0;
+    padding-left:70px;
     list-style:none;
 }
 .ttmenu .navbar-brand {
@@ -741,6 +741,9 @@
 @media screen and (max-width:360px) 
 
 {
+    .ttmenu .navbar ul{
+        padding-left: 0;
+    }
     .top-menu-s {
         border-bottom-color: #ececec;
         border-bottom-style: solid;
@@ -828,6 +831,9 @@
 @media screen and (max-width:414px) 
 
 {
+    .ttmenu .navbar ul{
+        padding-left: 0;
+    }
     .top-menu-s {
         border-bottom-color: #ececec;
         border-bottom-style: solid;

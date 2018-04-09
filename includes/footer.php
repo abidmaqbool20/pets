@@ -6,7 +6,7 @@
 						<div data-section="section">
 							<div class="container">
 								<div class="row">
-									<div class="col-sm-4 col-md-3 foot-logo"> <img src="images/foot-logo.png" alt="logo">
+									<div class="col-sm-4 col-md-3 foot-logo"> <img src="images/new-logo.png" alt="logo">
 										<p class="hasimg">Worlds's No. 1 Local Business Directory Website.</p>
 										<p class="hasimg">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
 									</div>

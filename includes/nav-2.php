@@ -11,20 +11,20 @@
                         <span class="icon-bar"></span>
                         </button>
 
-                        <a class="navbar-brand" href="#">
+                        <a class="navbar-brand" href="index.php">
                         	<img src="images/new-logo.png" alt=""> 
                         </a>
                     </div><!-- end navbar-header -->
         
                     <div class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav">
-                            <li class="dropdown ttmenu-full"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Pets <b class="dropme"></b></a>
+                        <ul class="nav navbar-nav ">
+                            <li class="dropdown ttmenu-full"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Shop by Pet <b class="dropme"></b></a>
                                 <ul id="first-menu" class="dropdown-menu">
                                     <li>
                                     <div class="ttmenu-content">
                                         <div class="tabbable row">
                                             <div class="col-md-3 navbar-left">
-                                                <ul class="nav nav-pills nav-stacked">
+                                                <ul class="nav nav-pills nav-stacked" style="padding-left: 0 !important">
                                                     <li class="active"><a href="#Dogs-Tab" data-toggle="tab">Dogs</a></li>
                                                     <li><a href="#Cats-Tab2" data-toggle="tab">Cats</a></li>
                                                     <li><a href="#DoctoR-Tab2" data-toggle="tab">Doctors</a></li>
@@ -35,13 +35,13 @@
                                                 <div class="tab-content">
                                                     <div id="Dogs-Tab" class="tab-pane active">
                                                         <div class="row">
-                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                            <div class="col-md-4 col-sm-6 col-xs-12">
                                                                 <div class="box">
                                                                     <ul>
                                                                         <li><h4>FOOD</h4></li>
                                                                         <li><a href="#">Web Design </a></li>
-                                                                        <li><a href="#">Web Development </a></li>
-                                                                        <li><a href="#">Graphic Design </a></li>
+                                                                        <li><a href="#">Canned Food</a></li>
+                                                                        <li><a href="#">Canned Food </a></li>
                                                                         <li><a href="#">IOS & ANDROID </a></li>
                                                                         <li><a href="#">Logo Design </a></li>
                                                                         <li><a href="#">Mockup Design </a></li>
@@ -52,7 +52,7 @@
                                                                 </div><!-- end box -->
                                                             </div><!-- end col -->
 
-                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                            <div class="col-md-4 col-sm-6 col-xs-12">
                                                                 <div class="box">
                                                                     <ul>
                                                                         <li><h4>Treat</h4></li>
@@ -68,7 +68,7 @@
                                                                     </ul>
                                                                 </div><!-- end box -->
                                                             </div><!-- end col -->
-                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                            <div class="col-md-4 col-sm-6 col-xs-12">
                                                                 <div class="box">
                                                                     <ul>
                                                                          <li><h4>Supplies</h4></li>
@@ -84,6 +84,8 @@
                                                                     </ul>
                                                                 </div><!-- end box -->
                                                             </div><!-- end col -->
+                                                            <div class="col-md-9 col-sm-6 col-xs-12">
+                                                            </div>
                                                             <div class="col-md-3 col-sm-6 col-xs-12">
                                                                 <img src="images/db-profile.jpg" alt="" class="img-responsive">
                                                             </div><!-- end col -->
@@ -190,7 +192,7 @@
                                     </li>
                                 </ul>
                             </li><!-- end mega menu -->
-                            <li class="dropdown ttmenu-full"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Grid <b class="dropme"></b></a>
+                            <li class="dropdown ttmenu-full"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Pet Services <b class="dropme"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
                                     <div class="ttmenu-content">
@@ -213,104 +215,64 @@
                                             <div class="col-md-2">
                                                 <div class="coldesc">col</div>
                                             </div>
-                                        </div><!-- end row -->
-    
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-    
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-    
-                                        <div class="row">
-                                            <div class="col-md-8">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-    
-                                        <div class="row">
-                                            <div class="col-md-10">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-    
-                                        <div class="row">
                                             <div class="col-md-12">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-                                        
-                                        <div class="row">
-                                            <div class="col-md-3">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-                                        
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-                                        
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="coldesc">col</div>
-                                            </div>
-                                        </div><!-- end row -->
-                                    </div><!-- end ttmenu-content -->
+                                                <div class="row">
+                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                                <div class="box">
+                                                                    <ul>
+                                                                        <li><h4>FOOD & TREATS</h4></li>
+                                                                        <li><a href="#">Web Design </a></li>
+                                                                        <li><a href="#">Web Development </a></li>
+                                                                        <li><a href="#">Graphic Design </a></li>
+                                                                        <li><a href="#">IOS & ANDROID </a></li>
+                                                                        <li><a href="#">Logo Design </a></li>
+                                                                        <li><a href="#">Mockup Design </a></li>
+                                                                        <li><a href="#">e-Commerce </a></li>
+                                                                        <li><a href="#">Digital Marketing </a></li>
+                                                                        <li><a href="#">SEO Services </a></li>
+                                                                    </ul>
+                                                                </div><!-- end box -->
+                                                            </div><!-- end col -->
+
+                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                                <div class="box">
+                                                                    <ul>
+                                                                        <li><h4>LITTER</h4></li>
+                                                                        <li><a href="#">Web Design </a></li>
+                                                                        <li><a href="#">Web Development </a></li>
+                                                                        <li><a href="#">Graphic Design </a></li>
+                                                                        <li><a href="#">IOS & ANDROID </a></li>
+                                                                        <li><a href="#">Logo Design </a></li>
+                                                                        <li><a href="#">Mockup Design </a></li>
+                                                                        <li><a href="#">e-Commerce </a></li>
+                                                                        <li><a href="#">Digital Marketing </a></li>
+                                                                        <li><a href="#">SEO Services </a></li>
+                                                                    </ul>
+                                                                </div><!-- end box -->
+                                                            </div><!-- end col -->
+                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                                <div class="box">
+                                                                    <ul>
+                                                                         <li><h4>Supplies</h4></li>
+                                                                        <li><a href="#">Web Design </a></li>
+                                                                        <li><a href="#">Web Development </a></li>
+                                                                        <li><a href="#">Graphic Design </a></li>
+                                                                        <li><a href="#">IOS & ANDROID </a></li>
+                                                                        <li><a href="#">Logo Design </a></li>
+                                                                        <li><a href="#">Mockup Design </a></li>
+                                                                        <li><a href="#">e-Commerce </a></li>
+                                                                        <li><a href="#">Digital Marketing </a></li>
+                                                                        <li><a href="#">SEO Services </a></li>
+                                                                    </ul>
+                                                                </div><!-- end box -->
+                                                            </div><!-- end col -->
+                                                            <div class="col-md-3 col-sm-6 col-xs-12">
+                                                                <img src="images/db-profile.jpg" alt="" class="img-responsive">
+                                                            </div><!-- end col -->
+                                                </div><!-- end row --> 
+                                             </div><!-- end col -->
+                                        </div><!-- end ttmenu-content -->
+                                    </div>
                                     </li>
                                 </ul>
                             </li><!-- end mega menu -->
@@ -452,7 +414,7 @@
                                     </li>
                                 </ul>
                             </li><!-- end mega menu -->
-                            
+
                         </ul><!-- end nav navbar-nav -->
                         <ul class="nav navbar-nav navbar-right">
                             <li>
