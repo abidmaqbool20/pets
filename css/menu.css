@@ -465,8 +465,27 @@
 }
 
 /* RESPONSIVE */
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 
+    .navbar-brand img {
+        width: 150px;
+        margin-top: 0px;
+    }
+    .nav > li > a {
+        padding: 10px 10px;
+    }
+   
+    .navbar-default .navbar-nav > li > a {
+   
+    padding-top: 23px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-size: 12px;
+    
+    font-style: normal;
+    color:#333 !important;
+    font-weight: 700;
+    text-transform: uppercase;
+}
     #vertical .navbar-brand {
         width: 60px;
     }

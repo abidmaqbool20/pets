@@ -11,8 +11,8 @@
 		  		</div>
 				<div class="col-sm-12 heightvh">
 					<div class="row quicksearch">
-						<div class="col-sm-2 col-xs-12"><img src="images/new-logo.png" alt=""></div>
-						<div class="col-sm-10 col-xs-12">
+						<div class="col-md-2 col-sm-3 col-xs-12"><img src="images/new-logo.png" alt=""></div>
+						<div class="col-md-10 col-sm-9 col-xs-12">
 							<form>
 			    				<input type="text" class="form-control" name="" placeholder="Searh Here with best Result">
 			    			</form>
